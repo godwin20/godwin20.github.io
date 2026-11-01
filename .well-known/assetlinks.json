@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.godwin20.pipshunt",
-        "sha256_cert_fingerprints": ["5F:D8:C7:72:01:45:13:3E:F8:B3:6A:43:02:AC:22:3E:1E:3A:74:33:03:8C:3D:34:DF:4B:AC:24:AB:7B:D7:09"]
+        "sha256_cert_fingerprints": ["5F:D8:C7:72:01:45:13:3E:F8:B3:6A:43:02:AC:22:3E:1E:3A:74:33:03:8C:3D:34:DF:4B:AC:24:AB:7B:D7:09", "7B:4B:26:AE:24:9A:93:39:59:2E:A3:F6:96:59:E0:05:88:B7:D0:55:98:2A:F1:F8:38:D1:5E:34:4F:57:33:D3", "0D:01:86:E4:78:9E:D8:6F:16:15:E4:50:B1:06:67:0D:17:77:24:14:37:AE:41:1B:FF:26:81:C8:7D:DC:1D:80", "51:7F:0F:9B:EE:33:A2:EC:A0:56:E3:87:BE:F2:40:2F:05:73:BB:04:62:9A:9D:C0:24:5A:C0:EB:00:0B:B4:D2"]
       }
     }]
